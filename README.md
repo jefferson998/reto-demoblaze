@@ -1,4 +1,4 @@
-# Pilare de Devops
+# Pilares de Devops
 
 ## Cultura
    - Comunicacion entre desarrollo y operaciones (QA,UX,UI,...)
